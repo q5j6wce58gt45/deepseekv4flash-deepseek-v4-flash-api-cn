@@ -2,7 +2,7 @@
 
 > 按量计费，$1 起充，OpenAI 兼容接口。 **input $0.3429; cached_input $0.0686; output $1.0286**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-7d8ac9) · [实时价格](https://go.apimart.ai/k-50d95f) · [获取 API Key](https://go.apimart.ai/k-ccb7c7)**
 
 ## 价格（快照 2026-09-24）
 
